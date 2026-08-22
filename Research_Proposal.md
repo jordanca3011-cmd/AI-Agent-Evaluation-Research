@@ -1,5 +1,8 @@
+# Research Proposal: Evaluating AI Agents in Long-Term Creative Software Development
 
-# 25. Potential Impact on Game Development and the Gaming Community
+## Abstract
+
+AI systems are increasingly capable of generating code...
 
 ## Game Development Impact
 
